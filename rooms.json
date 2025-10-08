@@ -1,0 +1,19 @@
+{
+  "rooms": [
+    {
+      "name": "Superior Room",
+      "description": "เหมาะสำหรับนักท่องเที่ยวราคาประหยัด",
+      "image": "https://placehold.co/600x400?text=Superior"
+    },
+    {
+      "name": "Deluxe Sea View",
+      "description": "วิวทะเลตรง ไม่บดบัง พร้อมระเบียง",
+      "image": "https://placehold.co/600x400?text=Deluxe+Sea+View"
+    },
+    {
+      "name": "Family Suite",
+      "description": "กว้างขวาง สำหรับครอบครัว",
+      "image": "https://placehold.co/600x400?text=Family+Suite"
+    }
+  ]
+}
