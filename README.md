@@ -1,0 +1,1 @@
+# hotel-promo-static-site
